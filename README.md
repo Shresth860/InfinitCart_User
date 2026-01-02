@@ -101,13 +101,3 @@ The cart system is designed using **Cart** and **CartItem** entities to follow r
 * Frontend integration (React / Angular)
 
 ---
-
-## ✅ Conclusion
-
-InfinitCart is a well-structured Spring Boot e-commerce backend project that demonstrates practical knowledge of REST APIs, database design, security, and application architecture. It is ideal for learning, scaling, and showcasing backend development skills.
-
----
-
-📁 **File Usage:**
-This document can be saved as `overview.txt` or `README.md` inside the project root to help users and recruiters quickly understand the purpose and scope of the project.
-
